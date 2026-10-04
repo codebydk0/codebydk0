@@ -92,6 +92,19 @@
 <br>
 
 ---
+<td align="center" width="250">
+
+<a href="https://www.linkedin.com/in/dilkhush-sharma-a66497384?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</a>
+
+<br><br>
+
+<sub>Connect with me</sub>
+
+</td>
 
 <p align="center">
 
