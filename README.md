@@ -1,110 +1,63 @@
-# 👋 Hi, I'm Dilkhush Kumar
+# Hey, I'm Dilkhush 👋
 
-<p align="center">
-  <b>CSE Student • Backend Developer in the Making • Problem Solver</b>
-</p>
+**CSE student exploring backend development and building things along the way.**
 
-<p align="center">
-  <a href="https://github.com/codebydk0">
-    <img src="https://img.shields.io/badge/GitHub-codebydk0-181717?style=for-the-badge&logo=github">
-  </a>
-  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C++-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</p>
+I mostly work with **JavaScript and C++** right now.
+Currently learning how to build proper backend applications with **Node.js** and **Express**.
 
----
+<br>
 
-## 🧑‍💻 About Me
-
-I'm a **Computer Science Engineering student** interested in backend development, software engineering and problem solving.
-
-I like learning by **building projects**, experimenting with new technologies and improving my fundamentals step by step.
-
-```text
-🎓 CSE Student
-💻 Backend Development
-🧠 DSA & Problem Solving
-🚀 Building Projects
-📚 Always Learning
-```
-
----
-
-## ⚡ Tech Stack
+## What I'm up to
 
 <table>
 <tr>
-<td align="center" width="150">
+<td width="50%">
 
-### Languages
+**Learning**
 
 JavaScript
-C++
-HTML
-CSS
-
-</td>
-
-<td align="center" width="150">
-
-### Backend
-
 Node.js
 Express.js
-REST APIs
-
-</td>
-
-<td align="center" width="150">
-
-### Database
-
 PostgreSQL
-MongoDB
+DSA with C++
 
 </td>
+<td width="50%">
 
-<td align="center" width="150">
+**Building**
 
-### Tools
-
-Git
-GitHub
-VS Code
+Web applications
+College projects
+Backend APIs
+Small experiments
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🚀 Featured Projects
+## Some things I've built
 
 <table>
 <tr>
 <td width="50%">
 
-### 📚 CAMS
+### CAMS
 
-**College Academic Management System**
+College Academic Management System
 
-A web application designed to manage academic information for students, teachers and administrators.
-
-**Focus:**
-`Web Development` `Backend` `Database`
+A project focused on making academic information easier to manage for students, teachers and administrators.
 
 </td>
 
 <td width="50%">
 
-### 📡 iTantra
+### iTantra
 
-**Multilingual Communication System**
+Multilingual Communication System
 
-A communication-focused project exploring speech technology and low-bandwidth communication.
-
-**Focus:**
-`Android` `STT/TTS` `Communication`
+A project exploring speech technology and communication over low-bandwidth connections.
 
 </td>
 </tr>
@@ -112,129 +65,64 @@ A communication-focused project exploring speech technology and low-bandwidth co
 <tr>
 <td width="50%">
 
-### 🏙️ CiviQ
+### CiviQ
 
-**Civic Issue Intelligence Platform**
+Civic Issue Intelligence Platform
 
-A platform for reporting civic problems and tracking their resolution journey.
-
-**Focus:**
-`AI` `Civic Tech` `Web`
+A platform concept for reporting civic problems and following their resolution.
 
 </td>
 
 <td width="50%">
 
-### ⚙️ JS Backend
+### JavaScript Backend
 
-**JavaScript Learning Repository**
-
-My journey through JavaScript fundamentals and backend development.
-
-**Focus:**
-`JavaScript` `Node.js` `Backend`
+My ongoing JavaScript practice — from the basics to building backend applications.
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📈 My Learning Path
+## Tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,nodejs,cpp,html,css,git,github,vscode,postgresql" />
+</p>
+
+<br>
+
+## Currently learning
 
 ```text
-                    BACKEND DEVELOPMENT
-
 JavaScript
-    │
-    ▼
+   ↓
 Node.js
-    │
-    ▼
+   ↓
 Express.js
-    │
-    ▼
+   ↓
 REST APIs
-    │
-    ▼
+   ↓
 PostgreSQL
-    │
-    ▼
-Authentication
-    │
-    ▼
-Docker & Deployment
 ```
 
-Alongside backend development:
+And alongside that, I'm working on **DSA with C++**.
 
-```text
-C++ → DSA → Problem Solving → Strong CS Fundamentals
-```
+<br>
 
----
+## GitHub
 
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td>🟢</td>
-<td><b>JavaScript</b></td>
-<td>Learning & practicing</td>
-</tr>
-
-<tr>
-<td>🟡</td>
-<td><b>Node.js</b></td>
-<td>Next step</td>
-</tr>
-
-<tr>
-<td>🟡</td>
-<td><b>DSA</b></td>
-<td>Practicing with C++</td>
-</tr>
-
-<tr>
-<td>⚪</td>
-<td><b>PostgreSQL</b></td>
-<td>Coming next</td>
-</tr>
-
-<tr>
-<td>⚪</td>
-<td><b>Docker</b></td>
-<td>Future learning</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebydk0&show_icons=true&hide_border=true&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebydk0&layout=compact&hide_border=true" height="170">
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=codebydk0&show_icons=true&hide_border=true&theme=transparent" height="165">
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebydk0&layout=compact&hide_border=true&theme=transparent" height="165">
 </p>
 
----
+<br>
 
-## 🔥 Contribution Streak
+> Still learning. Still building.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codebydk0&hide_border=true" />
-</p>
-
----
-
-## 💭 Currently
-
-> Learning → Building → Breaking things → Fixing them → Learning again.
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-  <br>
-  <sub>Building something better, one commit at a time.</sub>
+<p>
+<a href="https://github.com/codebydk0">GitHub</a>
 </p>
